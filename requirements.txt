@@ -1,1 +1,6 @@
-
+torch
+torchvision
+requests
+os
+maplotlib
+numpy
